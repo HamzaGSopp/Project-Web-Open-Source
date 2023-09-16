@@ -11,7 +11,7 @@ Welcome to the Project Web Open Source! This is a collaborative website where ev
 
 
 ## 🤝 How to Contribute
-# 🚀 Quick Start
+- 🚀 Quick Start
 
 To contribute to the site, follow these steps:
 
